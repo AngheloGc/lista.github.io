@@ -1,5 +1,9 @@
 window.addEventListener('load', function() {
 
+	setTimeout(function(){
+	   window.location.reload(1);
+	}, 30000);
+
 	for (var i = 0; i < lista.items.length; i++) {
 
 		var item = document.createElement("div");
