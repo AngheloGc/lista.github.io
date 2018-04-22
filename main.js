@@ -34,8 +34,3 @@ function DeleteItem(e) {
     var item = document.getElementById('remove');
     item.parentNode.removeChild(item);
 }
-
-$.getJSON('lista.json', function(data) {
-
-	
-});
