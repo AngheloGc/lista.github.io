@@ -1,12 +1,16 @@
 lista = {
   "items": [
   {
-    "song": "91 Days",
-    "url": "https://media.shoanime.com/2018/03/maxresdefault-14-750x450.jpg"
+    "song": "Fate/Zero",
+    "url": "https://images-na.ssl-images-amazon.com/images/I/71jtUPa94ZL._SY445_.jpg"
   },
   {
-    "song": "Anime Sama Radio",
-    "url": "https://scontent.flim5-3.fna.fbcdn.net/v/t1.0-9/29695072_1670519393024518_7186064182335509811_n.png?_nc_cat=0&_nc_eui2=v1%3AAeFQQaarW2i32XQCPmpMaWeGG0S3uD6ArNhxJ29DmlZdIGcIylbHTWj2LE1BJmjxv9dAHfKHcs3CIGFENNLyFxrA3q6HyDIOb41blRiQl5i23g&oh=e8afc30b0d1acfdbf6bf567a593ca5d7&oe=5B9CD587"
+    "song": "AnoHana",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/AnoHana_DVD_vol_1.jpg/220px-AnoHana_DVD_vol_1.jpg"
+  },
+  {
+    "song": "Shigatsu wa Kimi no Uso",
+    "url": "https://pm1.narvii.com/6161/7aac09bc0ecff8bc51651403e73681903df80f27_hq.jpg"
   },
   ]
 }
