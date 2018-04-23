@@ -1,10 +1,6 @@
 lista = {
   "items": [
   {
-    "song": "Overlord OP 2",
-    "url": "https://i.ytimg.com/vi/eW08T22wiWQ/maxresdefault.jpg"
-  },
-  {
     "song": "Akame ga Kill OP 1",
     "url": "https://littlecloudcuriosity.files.wordpress.com/2014/12/akame-ga-kill-episode-24-1.jpg"
   },
@@ -31,6 +27,14 @@ lista = {
   {
     "song": "Guilty Crown",
     "url": "https://images-na.ssl-images-amazon.com/images/I/81fYCZ9QY4L._SY445_.jpg"
+  },
+  {
+    "song": "Kuroko no Basket OP 1",
+    "url": "https://cdn.proxer.me/cover/3318.jpg"
+  },
+  {
+    "song": "Kuroko no Basket OP 1",
+    "url": "https://cdn.proxer.me/cover/3318.jpg"
   },
   ]
 }
