@@ -8,5 +8,9 @@ lista = {
     "song": "Log Horizon",
     "url": "https://vignette.wikia.nocookie.net/log-horizon/images/0/04/Log_Horizon_portada.png/revision/latest?cb=20130926023229&path-prefix=es"
   },
+  {
+    "song": "Watamote",
+    "url": "http://www.anime-kun.net/animes/anim_img/watamote-4548-765.jpg"
+  },
   ]
 }
