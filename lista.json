@@ -1,5 +1,9 @@
 lista = {
   "items": [
+    {
+    "song": "Koi to Uso",
+    "url": "https://media.shoanime.com/2017/11/Koi-to-Uso-portada.jpg"
+  },
   {
     "song": "Tokyo Ghoul",
     "url": "https://i2.wp.com/freakelitex.com/wp-content/uploads/2017/12/Tokyo-Ghoulre-1.jpg?fit=1200%2C850"
@@ -15,10 +19,6 @@ lista = {
   {
     "song": "Made in Abyss",
     "url": "https://f01.mrcdn.info/file/mrportal/h/b/d/4/OZ.58Qm1dnQ.png"
-  },
-  {
-    "song": "Koi to Uso",
-    "url": "https://media.shoanime.com/2017/11/Koi-to-Uso-portada.jpg"
   },
   ]
 }
