@@ -1,10 +1,6 @@
 lista = {
   "items": [
   {
-    "song": "Guilty Crown",
-    "url": "https://images-na.ssl-images-amazon.com/images/I/81fYCZ9QY4L._SY445_.jpg"
-  },
-  {
     "song": "Kuroko no Basket OP 1",
     "url": "https://cdn.proxer.me/cover/3318.jpg"
   },
@@ -19,6 +15,10 @@ lista = {
   {
     "song": "Blend S",
     "url": "https://3.bp.blogspot.com/-X-GWw4vX8dg/WcRxepJMqcI/AAAAAAAACrQ/q4cSli00pRUeFBrtIGerIO-r7E2f5wOnACLcBGAs/w300/Blend%2BS.jpg"
+  },
+  {
+    "song": "Kiba",
+    "url": "https://myanimelist.cdn-dena.com/r/360x360/images/anime/5/11099.jpg?s=5bc7021c43cf350ebade212bae53d6c6"
   },
   ]
 }
