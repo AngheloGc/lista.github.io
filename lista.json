@@ -1,16 +1,16 @@
 lista = {
   "items": [
   {
-    "song": "Highschool of the Dead",
-    "url": "https://ugc.kn3.net/i/origin/http://3.bp.blogspot.com/-bBLqEX4GGTE/Tzqv8U-4a8I/AAAAAAAAAeE/20oIY1pwdDc/s1600/HIGHSCHOOL-OF-THE-DEAD-1-22.jpg"
-  },
-  {
     "song": "NTR in the FranXX",
     "url": "https://www.koi-nya.net/img/subidos_posts/2017/11/darling-in-the-franxx-anime-.jpg"
   },
   {
     "song": "Mirai Nikki",
     "url": "https://otakustream.tv/wp-content/uploads/2017/05/mirai-nikki-dvd-20160718200742-399x500.jpg"
+  },
+  {
+    "song": "Log Horizon",
+    "url": "https://vignette.wikia.nocookie.net/log-horizon/images/0/04/Log_Horizon_portada.png/revision/latest?cb=20130926023229&path-prefix=es"
   },
   ]
 }
