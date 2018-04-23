@@ -1,10 +1,6 @@
 lista = {
   "items": [
   {
-    "song": "Kuroko no Basket OP 1",
-    "url": "https://cdn.proxer.me/cover/3318.jpg"
-  },
-  {
     "song": "Deadman Wonderland",
     "url": "https://myanimelist.cdn-dena.com/images/anime/9/75299l.jpg"
   },
@@ -18,6 +14,10 @@ lista = {
   },
   {
     "song": "Kiba",
+    "url": "https://myanimelist.cdn-dena.com/r/360x360/images/anime/5/11099.jpg?s=5bc7021c43cf350ebade212bae53d6c6"
+  },
+  {
+    "song": "91 Days",
     "url": "https://myanimelist.cdn-dena.com/r/360x360/images/anime/5/11099.jpg?s=5bc7021c43cf350ebade212bae53d6c6"
   },
   ]
