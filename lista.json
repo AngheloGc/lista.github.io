@@ -1,16 +1,8 @@
 lista = {
   "items": [
   {
-    "song": "Mirai Nikki",
-    "url": "https://otakustream.tv/wp-content/uploads/2017/05/mirai-nikki-dvd-20160718200742-399x500.jpg"
-  },
-  {
-    "song": "Log Horizon",
-    "url": "https://vignette.wikia.nocookie.net/log-horizon/images/0/04/Log_Horizon_portada.png/revision/latest?cb=20130926023229&path-prefix=es"
-  },
-  {
-    "song": "Watamote",
-    "url": "http://www.anime-kun.net/animes/anim_img/watamote-4548-765.jpg"
+    "song": "Steins;Gate 0",
+    "url": "https://myanimelist.cdn-dena.com/images/anime/1031/90444l.jpg"
   },
   ]
 }
