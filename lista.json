@@ -1,16 +1,16 @@
 lista = {
   "items": [
   {
-    "song": "Blend S",
-    "url": "https://3.bp.blogspot.com/-X-GWw4vX8dg/WcRxepJMqcI/AAAAAAAACrQ/q4cSli00pRUeFBrtIGerIO-r7E2f5wOnACLcBGAs/w300/Blend%2BS.jpg"
-  },
-  {
     "song": "Kiba",
     "url": "https://myanimelist.cdn-dena.com/r/360x360/images/anime/5/11099.jpg?s=5bc7021c43cf350ebade212bae53d6c6"
   },
   {
     "song": "91 Days",
     "url": "https://media.shoanime.com/2018/03/maxresdefault-14-750x450.jpg"
+  },
+  {
+    "song": "Anime Sama Radio",
+    "url": "https://www.facebook.com/AnimeSamaDesu/photos/a.1353448398064954.1073741826.1353447601398367/1670519393024518/?type=1&theater"
   },
   ]
 }
