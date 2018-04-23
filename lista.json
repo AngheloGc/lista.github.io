@@ -1,10 +1,6 @@
 lista = {
   "items": [
   {
-    "song": "AnoHana",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/AnoHana_DVD_vol_1.jpg/220px-AnoHana_DVD_vol_1.jpg"
-  },
-  {
     "song": "Shigatsu wa Kimi no Uso",
     "url": "https://pm1.narvii.com/6161/7aac09bc0ecff8bc51651403e73681903df80f27_hq.jpg"
   },
