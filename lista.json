@@ -24,5 +24,9 @@ lista = {
     "song": "Overlord OP 2",
     "url": "https://i.ytimg.com/vi/eW08T22wiWQ/maxresdefault.jpg"
   },
+  {
+    "song": "Akame ga Kill OP 1",
+    "url": "https://littlecloudcuriosity.files.wordpress.com/2014/12/akame-ga-kill-episode-24-1.jpg"
+  },
   ]
 }
