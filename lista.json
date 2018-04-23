@@ -32,5 +32,9 @@ lista = {
     "song": "Steins;Gate ED 1",
     "url": "https://www.noticiasenserie.com/wp-content/uploads/2017/07/NoEnSe-6-740x431.png"
   },
+  {
+    "song": "Toradora!",
+    "url": "https://ia.media-imdb.com/images/M/MV5BNWEwMjE2MjQtZTQ3NC00OTUxLWEwMWUtMThjZjg4Zjc5ZDYwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
   ]
 }
