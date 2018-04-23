@@ -1,10 +1,6 @@
 lista = {
   "items": [
   {
-    "song": "Fate/Zero",
-    "url": "https://images-na.ssl-images-amazon.com/images/I/71jtUPa94ZL._SY445_.jpg"
-  },
-  {
     "song": "AnoHana",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/AnoHana_DVD_vol_1.jpg/220px-AnoHana_DVD_vol_1.jpg"
   },
