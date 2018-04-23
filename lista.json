@@ -36,5 +36,9 @@ lista = {
     "song": "Kuroko no Basket OP 1",
     "url": "https://cdn.proxer.me/cover/3318.jpg"
   },
+  {
+    "song": "Deadman Wonderland",
+    "url": "https://myanimelist.cdn-dena.com/images/anime/9/75299l.jpg"
+  },
   ]
 }
